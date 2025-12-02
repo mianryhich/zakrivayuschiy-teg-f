@@ -1,7 +1,7 @@
 :root {
   --container-width: clamp(23.438rem, 16.285rem + 30.516vw, 43.75rem);
   --main-font: 'Inter-Variable';
-  --accent-font: 'PressStart2P-Regular';
+  --accent-font: 'PressStart2P';
   --font-weight-card-text: 410;
   --font-weight-card-title: 715;
   --bg-gradient:
