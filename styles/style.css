@@ -101,7 +101,7 @@
 
 .card__image {
   inline-size: 100%;
-  max-block-size: 371px;
+  max-block-size: clamp(23.188rem, 8.679rem + 38.69vw, 43.5rem);
   object-fit: cover;
   display: block;
   position: relative;
